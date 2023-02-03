@@ -6,3 +6,4 @@ In the project directory, you can run:
 ### `npm start`
 
 #
+![Getting Started](CAPTURE.PNG)
