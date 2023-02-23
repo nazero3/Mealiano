@@ -27,6 +27,18 @@ const DUMMY_MEALS = [
     description: "Healthy...and green...",
     price: 18.99,
   },
+  {
+    id: "m5",
+    name: "iskender",
+    description: "sefil tavsiyesi",
+    price: 10.99,
+  },
+  {
+    id: "m6",
+    name: "tavuk izgara",
+    description: "ezik tavsiyesi",
+    price: 10.99,
+  },
 ];
 function AvailableMeals() {
   return (
